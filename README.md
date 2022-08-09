@@ -1,2 +1,2 @@
 # git_code
-git_window练习仓库
+git 远程仓库，练习python使用，欢迎相互学习！
